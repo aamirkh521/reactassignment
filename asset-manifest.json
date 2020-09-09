@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/reactassignment/static/css/main.e5857c85.chunk.css",
+    "main.js": "/github.io/reactassignment/static/js/main.04231a8e.chunk.js",
+    "main.js.map": "/github.io/reactassignment/static/js/main.04231a8e.chunk.js.map",
+    "runtime-main.js": "/github.io/reactassignment/static/js/runtime-main.8b856048.js",
+    "runtime-main.js.map": "/github.io/reactassignment/static/js/runtime-main.8b856048.js.map",
+    "static/js/2.3e10ef85.chunk.js": "/github.io/reactassignment/static/js/2.3e10ef85.chunk.js",
+    "static/js/2.3e10ef85.chunk.js.map": "/github.io/reactassignment/static/js/2.3e10ef85.chunk.js.map",
+    "index.html": "/github.io/reactassignment/index.html",
+    "precache-manifest.cf0607251303e05b02ae8a31f8871ce7.js": "/github.io/reactassignment/precache-manifest.cf0607251303e05b02ae8a31f8871ce7.js",
+    "service-worker.js": "/github.io/reactassignment/service-worker.js",
+    "static/css/main.e5857c85.chunk.css.map": "/github.io/reactassignment/static/css/main.e5857c85.chunk.css.map",
+    "static/js/2.3e10ef85.chunk.js.LICENSE.txt": "/github.io/reactassignment/static/js/2.3e10ef85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b856048.js",
+    "static/js/2.3e10ef85.chunk.js",
+    "static/css/main.e5857c85.chunk.css",
+    "static/js/main.04231a8e.chunk.js"
+  ]
+}
